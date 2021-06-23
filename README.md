@@ -17,5 +17,7 @@ I got 70% accuracy in my prediction models, which i think is good for this usage
 - [ ] Model Comparison 
 
 If anyone wants to contribute or help me get a higher accuracy you can find me on:
+
 Gmail: uchoa.gui03@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/guilherme-uch%C3%B4a-8a2431212/
