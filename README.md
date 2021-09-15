@@ -9,7 +9,6 @@ All the data was taken from Kaggle.
 :construction: Work In Progress :construction:
 </h4>
 
-This is my way of work when it's about regression problems:
 ### Step by step
 - [x] Data Visualization
 - [x] Pre-Processing
